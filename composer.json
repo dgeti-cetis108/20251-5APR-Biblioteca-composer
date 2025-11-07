@@ -1,0 +1,17 @@
+{
+    "name": "cetis108/biblioteca",
+    "description": "Parcial 2",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cetis108\\Biblioteca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bidkar"
+        }
+    ],
+    "require": {}
+}

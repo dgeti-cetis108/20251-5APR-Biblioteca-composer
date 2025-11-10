@@ -1,9 +1,9 @@
 <?php
 
-namespace Cetis108\Biblioteca;
+namespace Cetis108\Biblioteca\Lib;
 
 class Alumno {
-    public $Id;
+    public $Id; // PK
     public $NoControl;
     public $Nombres;
     public $PrimerApellido;

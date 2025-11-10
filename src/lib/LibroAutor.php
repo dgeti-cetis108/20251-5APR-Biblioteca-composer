@@ -1,6 +1,6 @@
 <?php
 
-namespace Cetis108\Biblioteca;
+namespace Cetis108\Biblioteca\Lib;
 
 class LibroAutor {
     public $LibroId; // PK FK -> Libros(Id)

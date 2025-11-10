@@ -1,7 +1,7 @@
 <?php
 require '../vendor/autoload.php';
 
-use Cetis108\Biblioteca\Autor;
+use Cetis108\Biblioteca\Lib\Autor;
 
 $autores = [
     new Autor('Estefania', 'Diaz'),
